@@ -1,0 +1,59 @@
+/* styles.css */
+
+body {
+    background-color: #000000;
+    color: #00FF00;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.terminal {
+    width: 90%;
+    max-width: 900px;
+    height: 80%;
+    background-color: #111;
+    padding: 20px;
+    box-shadow: 0 0 20px #00FF00;
+    overflow-y: auto;
+    border-radius: 10px;
+}
+
+.input-line {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.prompt {
+    margin-right: 10px;
+}
+
+#user-input {
+    background: none;
+    border: none;
+    color: #00FF00;
+    font-size: 1em;
+    outline: none;
+    width: 90%;
+}
+
+.intro {
+    margin: 5px 0;
+}
+
+.command {
+    color: #00FFFF;
+    font-weight: bold;
+    animation: blink 1s infinite alternate;
+}
+
+@keyframes blink {
+    from { opacity: 1; }
+    to { opacity: 0.5; }
+}
