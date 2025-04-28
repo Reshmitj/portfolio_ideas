@@ -94,7 +94,7 @@ This design highlights:
 
 - Email: reshmi.tjr@gmail.com
 - GitHub: [github.com/Reshmitj](https://github.com/Reshmitj)
-- LinkedIn: [(https://www.linkedin.com/in/reshmi-thumatti-jawaharlal-89536972/)](https://www.linkedin.com/in/reshmi-thumatti-jawaharlal-89536972/)
+- LinkedIn: [https://www.linkedin.com/in/reshmi-thumatti-jawaharlal-89536972/](https://www.linkedin.com/in/reshmi-thumatti-jawaharlal-89536972/)
 
 ---
 
